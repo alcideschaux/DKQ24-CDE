@@ -1,0 +1,49 @@
+Edad,Sexo,Nivel educativo,Conocimientos básicos sobre diabetes mellitus [¿El comer azúcar es causa de diabetes?],Conocimientos básicos sobre diabetes mellitus [¿La diabetes es causada por la falta de insulina?],Conocimientos básicos sobre diabetes mellitus [¿La diabetes es causada porque los riñones no expulsan la glucosa del cuerpo?],Conocimientos básicos sobre diabetes mellitus [¿Los riñones producen insulina?],Conocimientos básicos sobre diabetes mellitus [¿Siendo diabético puedo tener hijos diabéticos?],Conocimientos básicos sobre diabetes mellitus [¿La diabetes mellitus tiene cura?],Conocimientos básicos sobre diabetes mellitus [¿La diabetes se divide principalmente en tipo 1 y 2?],Conocimientos básicos sobre diabetes mellitus [¿Comer mucho estimula a producir insulina?],Conocimientos básicos sobre diabetes mellitus [¿Es igual de importante el escoger los alimentos a ingerir que la forma de prepararlos?],Conocimientos básicos sobre diabetes mellitus [¿Los alimentos de los diabéticos deben de ser diferentes a los de los demás?],"Conocimientos sobre el control glucémico [¿A aquel diabético sin dieta, ejercicio y tratamiento médico le aumenta la glucemia?]",Conocimientos sobre el control glucémico [Identificación de nivel alto de glucemia en valores de 210 mg/dl],Conocimientos sobre el control glucémico [¿Es la mejor prueba para valorar la glucemia la realización de glucosurias (orina)?],Conocimientos sobre el control glucémico [¿El ejercicio produce mayor necesidad de insulina o medicamentos?],Conocimientos sobre el control glucémico [¿El medicamento es mas importante que la dieta y el ejercicio?],Conocimientos sobre el control glucémico [¿Son datos de hiperglucemia la sudoración y la sensación de frio?],Conocimientos sobre el control glucémico [¿Son datos de hipoglucemia la presencia de polidipsia (sed) y polifagia (mucho apetito)?],Conocimientos sobre la prevención y detección de complicaciones [¿La diabetes mellitus causa problemas de circulación sanguínea?],Conocimientos sobre la prevención y detección de complicaciones [¿Las heridas en los pacientes diabéticos cicatrizan más lento?],Conocimientos sobre la prevención y detección de complicaciones [¿El paciente diabético debe de tener más cuidado en el cortado de sus uñas?],"Conocimientos sobre la prevención y detección de complicaciones [¿La diabetes mellitus produce alteraciones en la percepción sensitiva (dolor en la cara, cuerpo, extremidades)?]",Conocimientos sobre la prevención y detección de complicaciones [¿Los pacientes diabéticos hacen infartos cerebrales con frecuencia?],Conocimientos sobre la prevención y detección de complicaciones [¿El diabético debe tener cuidado con su piel?],Conocimientos sobre la prevención y detección de complicaciones [¿El pie diabético hace infecciones frecuentes?]
+60,Femenino,Primaria,No,Sí,No,No,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,No,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+64,Femenino,Terciaria,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,No,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+47,Femenino,Primaria,Sí,No sé,Sí,No sé,Sí,Sí,No sé,Sí,Sí,No,Sí,No sé,No sé,No sé,No,Sí,Sí,Sí,Sí,Sí,No sé,No sé,Sí,No sé
+62,Femenino,Secundaria,Sí,No sé,No sé,No sé,No sé,Sí,No sé,Sí,Sí,Sí,Sí,No sé,Sí,Sí,No sé,No sé,Sí,No sé,Sí,Sí,No sé,No sé,Sí,No sé
+70,Masculino,Primaria,No,Sí,Sí,No sé,No,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,No,Sí,No sé,Sí,Sí,Sí,No sé,No,Sí,No sé
+77,Femenino,Primaria,Sí,Sí,No,No,Sí,Sí,Sí,No sé,Sí,No,Sí,Sí,No,No sé,No,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+64,Femenino,Primaria,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No sé,No sé,Sí,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+65,Femenino,Primaria,Sí,Sí,Sí,No,Sí,No,No sé,Sí,Sí,Sí,Sí,Sí,Sí,No sé,Sí,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+69,Masculino,Primaria,Sí,No sé,No sé,No sé,Sí,No,Sí,No sé,Sí,Sí,Sí,No sé,No sé,No sé,No,No sé,No sé,No sé,Sí,Sí,No sé,No sé,Sí,Sí
+70,Masculino,Terciaria,No,Sí,No,No,Sí,No,Sí,No,Sí,Sí,Sí,Sí,No sé,No sé,No,No,Sí,Sí,Sí,Sí,Sí,No sé,Sí,Sí
+51,Masculino,Primaria,Sí,No sé,Sí,No sé,Sí,Sí,Sí,No sé,Sí,Sí,Sí,No sé,No sé,No sé,No,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+59,Femenino,Primaria,Sí,Sí,Sí,No sé,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,No sé,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+64,Femenino,Primaria,Sí,No,No,No sé,Sí,Sí,No sé,Sí,No,Sí,Sí,No sé,No sé,No sé,No,Sí,No,Sí,Sí,Sí,No sé,Sí,Sí,Sí
+85,Masculino,Secundaria,Sí,No sé,No sé,No sé,No sé,Sí,Sí,No sé,Sí,Sí,Sí,No,No,Sí,No,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+64,Femenino,Primaria,Sí,Sí,No,No sé,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí
+74,Femenino,Terciaria,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No sé,Sí,Sí,No sé,No,Sí,Sí,Sí,No sé
+68,Masculino,Primaria,Sí,Sí,Sí,No,Sí,No,Sí,No sé,No sé,Sí,Sí,Sí,Sí,No,No,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+62,Femenino,Primaria,Sí,Sí,No sé,No sé,Sí,Sí,Sí,No sé,Sí,Sí,No,No sé,No sé,No sé,No,No sé,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí
+42,Femenino,Primaria,Sí,No sé,Sí,No sé,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,No sé,No sé,No,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+66,Femenino,Primaria,Sí,No sé,Sí,No sé,Sí,No,Sí,Sí,Sí,No,Sí,No sé,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+75,Femenino,Primaria,Sí,No sé,Sí,No sé,Sí,No,No sé,Sí,Sí,Sí,Sí,No sé,Sí,No sé,Sí,No,Sí,Sí,No,Sí,No,Sí,Sí,Sí
+55,Femenino,Secundaria,Sí,No sé,Sí,No,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No sé,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No
+66,Femenino,Primaria,Sí,No sé,No sé,No sé,No sé,Sí,No sé,No sé,No sé,Sí,No sé,No sé,No sé,No sé,No sé,Sí,Sí,No sé,No,Sí,Sí,No sé,Sí,No sé
+67,Masculino,Secundaria,No sé,Sí,Sí,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,No sé,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí
+76,Masculino,Primaria,Sí,No,No,No sé,Sí,Sí,No sé,Sí,Sí,No,Sí,Sí,Sí,No,No,No sé,No,Sí,No,Sí,No,Sí,Sí,Sí
+45,Femenino,Primaria,Sí,No,No,No sé,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+70,Femenino,Primaria,No,Sí,Sí,No,Sí,No,Sí,No sé,Sí,Sí,Sí,Sí,Sí,No sé,No,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,No
+59,Masculino,Secundaria,Sí,No,No,No,No,No,Sí,Sí,No,Sí,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+66,Femenino,Primaria,Sí,No sé,No sé,No sé,Sí,No,Sí,No sé,Sí,Sí,Sí,No sé,No sé,No,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+57,Femenino,Secundaria,Sí,No sé,No,No sé,Sí,Sí,No,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+62,Femenino,Primaria,Sí,Sí,Sí,No sé,No,Sí,No sé,No sé,Sí,Sí,Sí,Sí,Sí,No sé,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+74,Femenino,Primaria,Sí,Sí,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,No,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+68,Masculino,Primaria,Sí,No sé,No sé,No sé,Sí,Sí,No sé,Sí,Sí,Sí,Sí,No,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,No,No sé,Sí,No sé
+79,Masculino,Primaria,No sé,No sé,No sé,No sé,No sé,Sí,No sé,No sé,No sé,Sí,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé,No sé
+59,Femenino,Primaria,No sé,No,No sé,No sé,Sí,No,Sí,No sé,Sí,Sí,Sí,No sé,No,No sé,No,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+33,Femenino,Primaria,Sí,No sé,No sé,No sé,Sí,Sí,Sí,No sé,Sí,Sí,Sí,Sí,No,No sé,No,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+51,Femenino,Primaria,No sé,No sé,No sé,No sé,No sé,No,Sí,No sé,Sí,Sí,No sé,No sé,No,No sé,No,No sé,No sé,Sí,Sí,Sí,No sé,Sí,Sí,Sí
+43,Femenino,Primaria,Sí,No sé,No sé,No sé,Sí,No,Sí,No sé,Sí,Sí,Sí,No sé,No,No sé,No sé,No sé,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí
+47,Masculino,Secundaria,Sí,No sé,No sé,No sé,No,No,Sí,Sí,Sí,Sí,Sí,No,No,No sé,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+63,Masculino,Primaria,Sí,Sí,No sé,No sé,Sí,Sí,Sí,No sé,Sí,Sí,No sé,No sé,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+72,Femenino,Primaria,Sí,No sé,No sé,No sé,No sé,No,No sé,No sé,Sí,Sí,Sí,No sé,No,No sé,No,No sé,No sé,No sé,Sí,No sé,Sí,No sé,No sé,Sí
+66,Femenino,Primaria,Sí,Sí,Sí,No sé,Sí,Sí,No sé,No sé,Sí,Sí,Sí,No sé,Sí,No sé,No,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+59,Femenino,Primaria,Sí,No,No sé,No sé,Sí,Sí,Sí,No sé,Sí,Sí,Sí,No sé,No,No sé,No,Sí,Sí,Sí,No,No,Sí,Sí,Sí,Sí
+68,Femenino,Primaria,Sí,No sé,Sí,Sí,Sí,No sé,No sé,No,Sí,Sí,Sí,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+52,Femenino,Primaria,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,No,Sí,No,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+33,Femenino,Primaria,Sí,Sí,No sé,No sé,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,No,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí,Sí
+43,Femenino,Secundaria,No sé,No sé,Sí,Sí,No sé,No,No sé,Sí,Sí,Sí,Sí,No sé,Sí,No sé,No,No sé,No sé,No sé,Sí,Sí,No sé,Sí,Sí,No sé
+66,Femenino,Primaria,No,Sí,Sí,No sé,Sí,No,No,Sí,Sí,Sí,Sí,Sí,No,No sé,Sí,Sí,Sí,No sé,Sí,Sí,No,Sí,Sí,Sí
